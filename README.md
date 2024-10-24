@@ -21,7 +21,7 @@ When a match is found, the script generates an alert identifying the type of thr
   ```sh
   python3 main.py -t [ip | domain | url | file] -s [source]
   ```
-  * Options :
+  * Options :  
 `-u` or `--update`: Downloads and updates the blacklist databases before analysis.  
 `-t` or `--type`: Specifies the type of source to analyze (IP, domain, URL, or file).  
 `-s` or `--source`: Indicates the source to analyze (IP address, domain name, etc.).    
