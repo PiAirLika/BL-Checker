@@ -16,7 +16,8 @@ When a match is found, the script generates an alert identifying the type of thr
 
 ## 🎃 Usage Demo
 
-![demo]
+![blchecker](https://github.com/user-attachments/assets/1f896652-ab60-41a3-b380-c2db0d7fd29c)
+
 
   ```sh
   python3 main.py -t [ip | domain | url | file] -s [source]
@@ -36,7 +37,3 @@ Ensure Python is properly installed on your system by running `python --version`
 ## 💻 Author
 
 piairlika
-
-<!-- MARKDOWN LINKS -->
-
-[demo]: https://pouch.jumpshare.com/preview/3tPoKwB25IqxfG9akCIZdXb4pgVa12G80ru959oRPlG1gAFRSbhY2S8dOKh6OeQwkJ03l0Kkgrzh5hMx_dn1WPnISDjqxNvphql1zHr05Ow
